@@ -1,6 +1,6 @@
 ---
 title: "Verhaltenskodex"
-date: 2020-04-07T01:00:40+06:00
+date: 2020-04-16T01:00:40+06:00
 description : "Die folgenden Regeln haben wir uns selbst auferlegt und handeln danach."
 type: post
 image: images/blog/code_of_conduct.jpg
@@ -14,13 +14,13 @@ Transparenz, Nachvollziehbarkeit und die Privatsphäre des Einzelnen ist unser h
 
 ## Akzeptables Verhalten
 
-  * Empathische Zusammenarbeit und ein Verständnis füreinander
-  * Klare und gewaltfreie Kommunikation
-  * Integratives Verhalten
-  * Respektvolles Verhalten gegenüber allen Beteiligten, insbesondere hinsichtlich verschiedener Perspektiven, Meinungen und Erfahrungen der Einzelnen
-  * Feedbackkultur: Konstruktives Feedback darf und soll in einer Art und Weise erfolgen, die nicht persönlich oder beleidigend wird. 
-  * Verantwortungsvolles Verhalten sich und anderen gegenüber. Dazu gehört auch, sich Fehler einzugestehen und die Konsequenzen zu tragen und zu sich gegebenenfalls bei den Beteiligten entschuldigen, sofern die Handlung sich auf eine Person oder deren Aufgabengebiet auswirkt
-  * Kollaboratives Verhalten: Handlungen und Entscheidungen sollten im Sinne der Gemeinschaft, nicht nur im Sinne des Einzelnen gefällt werden
+  - Empathische Zusammenarbeit und ein Verständnis füreinander
+  - Klare und gewaltfreie Kommunikation
+  - Integratives Verhalten
+  - Respektvolles Verhalten gegenüber allen Beteiligten, insbesondere hinsichtlich verschiedener Perspektiven, Meinungen und Erfahrungen der Einzelnen
+  - Feedbackkultur: Konstruktives Feedback darf und soll in einer Art und Weise erfolgen, die nicht persönlich oder beleidigend wird. 
+  - Verantwortungsvolles Verhalten sich und anderen gegenüber. Dazu gehört auch, sich Fehler einzugestehen und die Konsequenzen zu tragen und zu sich gegebenenfalls bei den Beteiligten entschuldigen, sofern die Handlung sich auf eine Person oder deren Aufgabengebiet auswirkt
+  - Kollaboratives Verhalten: Handlungen und Entscheidungen sollten im Sinne der Gemeinschaft, nicht nur im Sinne des Einzelnen gefällt werden
 
 ## Inakzeptables Verhalten
 
