@@ -945,6 +945,11 @@ article {
   border-left: 5px solid #eee;
 }
 
+.post-content ul li {
+  list-style: circle;
+  margin-left: 15px;
+}
+
 .single-post .post-content ol li,
 .single-post .post-content ul li {
   color: #666;
